@@ -1,3 +1,6 @@
+[![Build Status](https://cuddly-space-capybara-4jg6p4j9g9v6fpjg-8080.app.github.dev/job/CreativeJavaBuild/badge/icon)](https://cuddly-space-capybara-4jg6p4j9g9v6fpjg-8080.app.github.dev/job/CreativeJavaBuild/)
+
+
 # CI/CD Pipeline with Jenkins & Maven for Java Projects
 
 ## 📌 Overview
