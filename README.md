@@ -1,3 +1,6 @@
+![Build Status](https://img.shields.io/badge/Jenkins-Build%20Passing-brightgreen?logo=jenkins&logoColor=white)
+
+
 # CI/CD Pipeline with Jenkins & Maven for Java Projects
 
 ## 📌 Overview
